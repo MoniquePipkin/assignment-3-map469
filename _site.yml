@@ -3,7 +3,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Monique"
-      href: monique.html
     - text: "Amelia"
-      href: amelia.html 
+      href: amelia.html
+    - text: "Amelia"
+      href: amelia.html  
